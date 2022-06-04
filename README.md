@@ -1,6 +1,8 @@
 # HelloWorld
 A C++ Hello World project, using CMake, ninja, ccache, and GitHub Actions.
 
+[![CMake Build Matrix](https://github.com/sukesh-ak/HelloWorld-Action/actions/workflows/build_cmake.yml/badge.svg)](https://github.com/sukesh-ak/HelloWorld-Action/actions/workflows/build_cmake.yml)
+
 # Documentation
 This project was used as an example for these two blog entries:
 
